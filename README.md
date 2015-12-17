@@ -2,6 +2,10 @@
 
 Generate an exports file for a directory
 
+Installation
+--------------
+`npm install generate-exports`
+
 Usage
 --------------
 `generate-exports [options] <path>`
