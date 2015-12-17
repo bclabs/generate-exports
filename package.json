@@ -1,6 +1,6 @@
 {
   "name": "generate-exports",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Chad Nickell <chad@brllnt.co>",
   "license": "MIT",
   "description": "Generate an ES2015 exports file for a directory",
@@ -9,7 +9,7 @@
     "url": "https://github.com/bclabs/generate-exports.git"
   },
   "bin": {
-      "generate-exports": "./lib/index.js"
+    "generate-exports": "./lib/index.js"
   },
   "scripts": {
     "build": "babel src -d lib",
